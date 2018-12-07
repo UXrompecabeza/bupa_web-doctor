@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="4px" viewBox="0 0 16 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design-desk***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info_noticias-interior_documentos" transform="translate(-863.000000, -316.000000)" fill="#0079C8" fill-rule="nonzero">
+            <g id="minus" transform="translate(863.000000, 316.000000)">
+                <path d="M0,3.06128696 L0,0.62655872 C0,0.28102632 0.281526392,0 0.626558736,0 L15.3734413,0 C15.7204738,0 16,0.2815264 16,0.62655872 L16,3.05978688 C16,3.40681936 15.7184736,3.6863456 15.3734413,3.6863456 L0.626558736,3.6863456 C0.281026344,3.68784576 0,3.40681936 0,3.06128696 Z" id="path-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

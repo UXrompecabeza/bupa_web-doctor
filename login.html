@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="icon" type="image/png" href="./assets/icons/favicon/favicon-bupa.png"/>
+    <link rel="stylesheet" href="./css/libs/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="./css/libs/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./css/styles.css"/>
+    <title>Bupa Doctor</title>
+  </head>
+  <body>
+    <div class="login-container">
+      <div class="login-container-card">
+        <div class="login-container-card__header"><img src="./assets/images/logo-bupa.svg" alt=""/>
+          <p class="title-white title-white__main">Bupa Doctor</p>
+        </div>
+        <div class="login-container-card__body">
+          <input class="input-complex input-rut input-complex__email" type="text" placeholder="RUT"/>
+          <div class="login-container-card__body_pass">
+            <input class="input-complex input-complex__password password-field" type="password" placeholder="Contraseña"/>
+            <button class="toggle-password"><img class="img-eyed-pass" src="./assets/icons/icon_noview.svg"/></button>
+          </div>
+          <div class="row">
+            <div class="col-6">
+              <div class="box-recordatorio">
+                <p>Recuérdame </p>
+              </div>
+            </div>
+            <div class="col-6">
+              <div class="material-switch">
+                <input id="switch-default" name="switch-default" type="checkbox"/>                
+                <label class="default-color" for="switch-default"></label>
+              </div>
+            </div>
+          </div>
+        </div><br/>
+        <div class="login-container-card__footer">
+          <button class="btn-form-transparent" onclick="document.location.href='index.html'">Ingresar</button>
+          <div class="row"> 
+            <div class="col-6 box-link-left"><a href="#">
+                <p>Regístrate</p></a></div>
+            <div class="col-6 box-link-right"><a href="#">
+                <p>Olvidé mi clave</p></a></div>
+          </div>
+          <div class="login-container-card__footer_link"><a href="#"><span>Accede a Cursos de Inducción</span><img src="./assets/icons/icon_share.svg" alt=""/></a></div>
+        </div>
+      </div>
+    </div>
+    <script src="./js/libs/jquery.min.js"></script>
+    <script src="./js/libs/bootstrap.min.js"></script>
+    <script src="./js/libs/owl.carousel.min.js"></script>
+    <script src="./js/funciones-formulario.js"></script>
+    <script src="./js/funciones.js"></script>
+  </body>
+</html>

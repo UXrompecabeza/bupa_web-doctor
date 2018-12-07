@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>lock-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,11 L15,8 C15,6.34314575 13.6568542,5 12,5 C10.3431458,5 9,6.34314575 9,8 L9,11 L6,11 L6,8 C6,4.6862915 8.6862915,2 12,2 C15.3137085,2 18,4.6862915 18,8 L18,11 L15,11 Z M6,12 L18,12 C19.1045695,12 20,12.8954305 20,14 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 C4.8954305,22 4,21.1045695 4,20 L4,14 C4,12.8954305 4.8954305,12 6,12 Z M10.5,15.5 C10.5,16.0552118 10.801649,16.5399696 11.25,16.7993267 L11.25,19 L12.75,19 L12.75,16.7993267 C13.198351,16.5399696 13.5,16.0552118 13.5,15.5 C13.5,14.6715729 12.8284271,14 12,14 C11.1715729,14 10.5,14.6715729 10.5,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/misc/lock/solid" transform="translate(-4.000000, -2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="lock-solid" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

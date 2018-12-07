@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>button-plus-linear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_desk" transform="translate(-900.000000, -528.000000)" fill="#0079C8" fill-rule="nonzero">
+            <g id="button-plus-linear" transform="translate(900.000000, 528.000000)">
+                <path d="M8.6,7.4 L11.4,7.4 C11.7313709,7.4 12,7.66862912 12,8 C12,8.33137088 11.7313709,8.6 11.4,8.6 L8.6,8.6 L8.6,11.4 C8.6,11.7313709 8.33137088,12 8,12 C7.66862912,12 7.4,11.7313709 7.4,11.4 L7.4,8.6 L4.6,8.6 C4.26862915,8.6 4,8.33137088 4,8 C4,7.66862912 4.26862915,7.4 4.6,7.4 L7.4,7.4 L7.4,4.6 C7.4,4.26862915 7.66862912,4 8,4 C8.33137088,4 8.6,4.26862915 8.6,4.6 L8.6,7.4 Z M8,0 C3.589,0 0,3.589 0,8 C0,12.411 3.589,16 8,16 C12.411,16 16,12.411 16,8 C16,3.589 12.411,0 8,0 Z M8,15.2 C4.03033505,15.2 0.8,11.969665 0.8,8 C0.8,4.03033505 4.03033505,0.8 8,0.8 C11.969665,0.8 15.2,4.03033505 15.2,8 C15.2,11.969665 11.969665,15.2 8,15.2 Z" id="path-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>play-lite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design-desk***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="material-ingreso_02" transform="translate(-116.000000, -425.000000)" fill="#0079C8" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(116.000000, 425.000000)">
+                <g id="play-lite">
+                    <path d="M0,8 C0,3.589 3.589,0 8,0 C12.411,0 16,3.589 16,8 C16,12.411 12.411,16 8,16 C3.589,16 0,12.411 0,8 Z M0.8,8 C0.8,11.969665 4.03033505,15.2 8,15.2 C11.969665,15.2 15.2,11.969665 15.2,8 C15.2,4.03033505 11.969665,0.8 8,0.8 C4.03033505,0.8 0.8,4.03033505 0.8,8 Z M5.678,12.1565 C5.592,12.1565 5.5075,12.1345 5.4295,12.091 C5.2765,12.002 5.181,11.8395 5.181,11.6615 L5.181,4.4785 C5.181,4.302 5.275,4.138 5.4295,4.049 C5.5825,3.96 5.7715,3.96 5.925,4.049 L12.147,7.641 C12.3,7.73 12.3955,7.8925 12.3955,8.0705 C12.3955,8.247 12.3015,8.411 12.147,8.5 L5.9265,12.089 C5.85,12.1345 5.764,12.156 5.678,12.156 L5.678,12.1565 Z M6.1735,5.336 L6.1735,10.803 L10.908,8.07 L6.1735,5.3355 L6.1735,5.336 Z" id="path-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

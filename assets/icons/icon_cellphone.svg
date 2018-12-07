@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>linear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design-desk***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info_noticias-interior_apoyolegal" transform="translate(-144.000000, -417.000000)" fill="#0079C8" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(140.000000, 350.000000)">
+                <g id="linear" transform="translate(4.000000, 67.000000)">
+                    <path d="M1.6,0.8 C1.1581722,0.8 0.8,1.1581722 0.8,1.6 L0.8,14.4 C0.8,14.8418278 1.1581722,15.2 1.6,15.2 L8,15.2 C8.44182776,15.2 8.8,14.8418278 8.8,14.4 L8.8,1.6 C8.8,1.1581722 8.44182776,0.8 8,0.8 L1.6,0.8 Z M1.6,0 L8,0 C8.8836556,0 9.6,0.7163444 9.6,1.6 L9.6,14.4 C9.6,15.2836556 8.8836556,16 8,16 L1.6,16 C0.7163444,16 0,15.2836556 0,14.4 L0,1.6 C0,0.7163444 0.7163444,0 1.6,0 Z M0.8,2.4 L0.8,3.2 L8.8,3.2 L8.8,2.4 L0.8,2.4 Z M0.8,12 L0.8,12.8 L8.8,12.8 L8.8,12 L0.8,12 Z M4.8,14.6 C5.13137088,14.6 5.4,14.3313709 5.4,14 C5.4,13.6686291 5.13137088,13.4 4.8,13.4 C4.46862912,13.4 4.2,13.6686291 4.2,14 C4.2,14.3313709 4.46862912,14.6 4.8,14.6 Z" id="path-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
