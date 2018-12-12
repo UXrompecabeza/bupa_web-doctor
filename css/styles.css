@@ -2249,7 +2249,11 @@ table {
       display: none; }
 
 .grid-gallery {
-  padding: 0 1em; }
+  padding: 0 1em;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  height: 75vh; }
   .grid-gallery_next {
     cursor: pointer;
     padding: 1em 0;
